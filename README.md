@@ -1,2 +1,1 @@
-# nanos_survival_server
-Survival Server Made on Nanos World
+<a href="https://store.steampowered.com/app/1841660/nanos_world/" target="_blank">![wishlist-now](https://user-images.githubusercontent.com/6226807/178711097-d3e3be2e-a909-4ba0-91b9-3a62d14a7664.png)</a>
