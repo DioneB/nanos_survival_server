@@ -3,8 +3,8 @@
 <h4 align="center">Documentation</h4>
 
 <p align="center">
-  <a href="https://github.com/DioneB/nanos_survival_server/tree/main/resources/core#methodscore">API Core</a> •
-  <a href="https://github.com/DioneB/nanos_survival_server/tree/main/resources/core#methodsplayer">API Player</a> •
-  <a href="https://github.com/DioneB/nanos_survival_server/tree/main/resources/core#methodsenemies">API Enemies</a> 
+  <a href="https://github.com/DioneB/nanos_survival_server/tree/main/Packages/core#methodscore">API Core</a> •
+  <a href="https://github.com/DioneB/nanos_survival_server/tree/main/Packages/core#methodsplayer">API Player</a> •
+  <a href="https://github.com/DioneB/nanos_survival_server/tree/main/Packages/core#methodsenemies">API Enemies</a> 
 </p>
 
